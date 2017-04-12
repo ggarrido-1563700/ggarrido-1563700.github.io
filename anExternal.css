@@ -27,10 +27,13 @@ p{
     font-size: 12px
 }
     #rcorners {
-    border-radius: 8px
+    border-radius: 25px
     border: 2px solid gray;
-    background: lightpink;
-    padding: 2px;
+    background: lightblue;
+    padding: 20px;
+    width: 300px;
+    height: 200px; 
+    float: left; 
 }
 
 img {
