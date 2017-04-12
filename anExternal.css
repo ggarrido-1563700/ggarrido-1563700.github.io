@@ -1,0 +1,39 @@
+body{
+    background-color: lightsteelblue;
+}
+
+h1 {
+    color: cadetblue;
+}
+
+h1.another {
+    color: black;
+    border: 3px solid slategray;
+    border-radius: 9 px;
+    text-align: center; 
+}
+
+img {
+    float: right;
+    margin: 0 0 10px 10px;
+    opacity: 0.6;
+    transition: opacity 1s ease-in-out;
+    -moz-transition: opacity .70s ease-in-out;
+    -webkit-transition: opacity .70s ease-in-out;
+}
+p{
+    color: white;
+    font-family: 'Times New Roman';
+    font-size: 12px
+}
+    #rcorners {
+    border-radius: 8px
+    border: 2px solid gray;
+    background: lightpink;
+    padding: 2px;
+}
+
+img {
+    float: left;
+    margin: 0 0 10px 10px;
+}
